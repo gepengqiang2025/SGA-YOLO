@@ -2,7 +2,7 @@
 
 This repository contains dataset and codes for our paper "SGA-YOLO: A Lightweight Real-Time Object Detection Network for UAV Infrared Images".
 
-We provide the dataset of our work. You can download it by the following link: [dataset](https://pan.baidu.com/s/1QrxT-4XkxCcyHBH_-5lrxw) code: sman 
+We provide the dataset of our work. You can download it by the following link: [dataset](https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset)
 
 We provide the source code of our work. You can download it by the following link: [source code](https://pan.baidu.com/s/1oMjA44rNIIkCDJqzPokYaw) code: aw7z
 

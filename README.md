@@ -7,6 +7,7 @@ The performance of existing object detection algorithms significantly degrades w
 ![Structure Figure](SGA-YOLO.png)
 
 We provide the HIT-UAV dataset used in our work. You can download it by the following link: [dataset](https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset)
+
 We provide the key modules used in our work in this repository (see the main branch).
 
 ## Publication

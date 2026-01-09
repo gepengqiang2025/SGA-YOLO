@@ -23,7 +23,14 @@ Our paper has now been accepted by TITS, and the final version of our code is co
 - Run val.py for validating.
 ```
 
-# Detecting
+# Publication
 ```
-- Run detect.py for detecting.
+If you want to use this work, please consider citing the following paper.
+@article{ge2025sga,
+  title={SGA-YOLO: A Lightweight Real-Time Object Detection Network for UAV Infrared Images},
+  author={Ge, Pengqiang and Wan, Minjie and Qian, Weixian and Xu, Yunkai and Kong, Xiaofang and Gu, Guohua and Chen, Qian},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2025},
+  publisher={IEEE}
+}
 ```

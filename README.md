@@ -1,6 +1,6 @@
 # SGA-YOLO: A Lightweight Real-Time Object Detection Network for UAV Infrared Images
 
-We provide the HIT-UAV dataset of our work. You can download it by the following link: [dataset](https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset)
+We provide the HIT-UAV dataset used in our work. You can download it by the following link: [dataset](https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset)
 
 # Overview of SGA-YOLO
 
